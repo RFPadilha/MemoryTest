@@ -68,26 +68,3 @@ ul {
   margin: 5px;
   padding: 0;
 }
-
-.nav-item {
-  margin-right: 5px;
-  font-size: 20px;
-  float: right;
-  list-style-type: none;
-}
-
-.instruction {
-  /* margin-left: 20%; */
-  font-size: 20px;
-  float: left;
-  list-style-type: none;
-  margin-left: 10px;
-}
-
-.restart:hover {
-  color: #1db0ff;
-}
-
-.navbar {
-  min-height: 60px;
-}
